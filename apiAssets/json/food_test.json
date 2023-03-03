@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Millet Idly",
+    "image_path": "https://i.ibb.co/QfpnR5b/IMG-9095-720x720.jpg",
+    "itemsreq": [
+      "Millet 3 cups (Any millet of your choice)",
+      "Urad dal 1 cup",
+      "1/4 tbsp methi /fenugreek seeds",
+      "1/4 cup of poha/aval"
+    ],
+    "method": [
+      "Soak separately for 5 hours.",
+      "10 minutes before grinding soak poha",
+      "Grind urad dal and methi first",
+      "Then grind millet and poha",
+      "Mix everything together and add salt",
+      "Ferment for a minimum of 6 hours",
+      "steam the idly"
+    ],
+    "cals": "392 Cals",
+    "time": "500 mins"
+  },
+  {
+    "name": "Millet Vadai",
+    "image_path": "https://i.ibb.co/nLk2ZTp/download-1.jpg",
+    "itemsreq": [
+      "Millet 1/2 cup",
+      "Chana dal l 1/3 cup",
+      "Red chillies",
+      "Ginger few pieces",
+      "Greens 1/3 cup finely chopped",
+      "Salt",
+      "Hing",
+      "Oil to fry"
+    ],
+    "method": [
+      "Wash and soak millet and dal for 3 hours and drain the water",
+      "Blend millet and dal with chillies, ginger and hing",
+      "Grind coarsely. ( do not add more water)",
+      "Add chopped greens and salt along with the grounded batter",
+      "Heat the oil",
+      "Take small portion of the batter and make round shape and drop it in the Preheated oil one by one",
+      "Cook in medium flame and wait till it becomes browning and cooked inside"
+    ],
+    "cals": "96 Cals",
+    "time": "480 mins"
+  }
+]
